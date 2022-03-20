@@ -11,6 +11,7 @@
 
 ## 2. 역할 :two_men_holding_hands:
 - SVM, KNN, Random Forest 및 딥러닝 모델 설계
+- 
 ![image](https://user-images.githubusercontent.com/63221959/159171370-65c9def4-8524-47ff-b013-1d8a6535b2b7.png)
 
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/63221959/159171391-0ee209b8-7948-44f6-9d09-f66dc784cb6b.png">
